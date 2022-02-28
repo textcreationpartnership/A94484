@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Honourable the House of Commons assembled in high court of Parliament: the humble remonstrance and petition of the Lord Major, aldermen, and commons of the city of London, in Common Councell assembled.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94484</idno>
+            <idno type="STC">Wing T1447</idno>
+            <idno type="STC">Thomason E338_7</idno>
+            <idno type="STC">ESTC R200842</idno>
+            <idno type="EEBO-CITATION">99861474</idno>
+            <idno type="PROQUEST">99861474</idno>
+            <idno type="VID">113611</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113611)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E338[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Honourable the House of Commons assembled in high court of Parliament: the humble remonstrance and petition of the Lord Major, aldermen, and commons of the city of London, in Common Councell assembled.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Against the Independents, in favour of church union with the Scotch, etc.--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "May 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Govermnent --  Early works to 1800.</term>
+               <term>Church of Scotland --  Early works to 1800.</term>
+               <term>Church ploity --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>London (England) --  Church history.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113611:1"/>
+            <!-- PDF PAGE 91 -->
+            <pb facs="tcp:113611:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+            <p>TO THE HONOVRABLE THE HOUSE OF COMMONS ASSEMBLED IN HIGH COVRT OF PARLIAMENT: The Humble Remonſtrance and Petiti<g ref="char:EOLhyphen"/>on of the Lord Major, Aldermen, and Commons of the City of <hi>London,</hi> in Com<g ref="char:EOLhyphen"/>mon Councell Aſſembled.</p>
+            <p>
+               <add>May 26 / </add> 
+               <hi>LONDON,</hi> Printed by <hi>Richard Gotes.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113611:2"/>
+            <!-- PDF PAGE 92 -->
+            <pb n="1" facs="tcp:113611:2"/>
+            <!-- PDF PAGE 92 -->
+            <head>
+               <hi>TO THE HONOVRABLE the HOVSE of COMMONS Aſſembled in High Court of</hi> PARLIAMENT: The humble Remonſtrance and Petition of the Lord Major, Aldermen, and Commons of the City of <hi>London,</hi> in Common Councell aſſem<g ref="char:EOLhyphen"/>bled.</head>
+            <p>
+               <seg rend="decorInit">O</seg>UR duty, in the firſt place, doth lead us to be<g ref="char:EOLhyphen"/>gin all our Addreſſes, as wee moſt heartily and humbly doe theſe, with all due and humble acknowledgement of the great Labours and endeavours which this Honorable Houſe hath, theſe many yeers, employed, in Reformation both of the Church and Common-wealth, and in preſervation of both, with the humble tender of our conſtant devotion to ſerve the Parliament, according to our Covenant made before Almighty God.</p>
+            <p>
+               <pb n="2" facs="tcp:113611:3"/>
+               <!-- PDF PAGE 93 -->
+In the next place, wee doe moſt humbly crave pardon, al<g ref="char:EOLhyphen"/>though woe doe preſume to return again unto this Honoura<g ref="char:EOLhyphen"/>ble Houſe, and humbly, yet plainly, lay open the ſorrowe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d fears of our hearts, even in this ſeaſon, when as God hath <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſed your Armies with the greateſt ſucceſſes, and that Man might perſwade himſelf that the Warre is almoſt at an end.</p>
+            <p>
+               <note place="margin">Remonſtrance of the State of the Kingdome, <hi>pag. 19.</hi>
+               </note>For firſt, when wee remember that this Honourable Houſe hath long ſince declared it to bee farre from their purpoſe or deſire to let looſe the golden Reins of Diſcipline and Govern<g ref="char:EOLhyphen"/>ment in the Church, or to leave private perſons, or particular Congregations, to take up what form of Divine Service they pleaſe, when wee look upon what both Houſes have reſolved againſt <hi>Browniſme,</hi> and <hi>Anabaptiſme,</hi> properly ſo called, when we meditate on our Proteſtation and Covenant.</p>
+            <p>
+               <note place="margin">The Parlia<g ref="char:EOLhyphen"/>ments Declara<g ref="char:EOLhyphen"/>tion, upon his Majeſties De<g ref="char:EOLhyphen"/>claration after the Battaile at Edghill. <hi>p. 659.</hi>
+               </note>And laſtly, when wee peruſe the Directory, and other Ordi<g ref="char:EOLhyphen"/>nances for Presbyteriall Government, and yet finde private and ſeparate Congregations daily erected in divers parts of the Ci<g ref="char:EOLhyphen"/>ty, and elſewhere, and commonly frequented (and <hi>Anabaptiſm, Browniſm,</hi> and almoſt all manner of Hereſies, Schiſmes, and Blaſ<g ref="char:EOLhyphen"/>phemies, boldly vented, and maintained, by ſuch as, to the point of Church-Government, profeſſe themſelves <hi>Independent</hi>) wee cannot but bee aſtoniſhed at the ſwarmes of Sectaries, which diſcover themſelves every where, who, if by their endeavours, they ſhould get into places of Profit and Truſt, in Martiall or Civill affaires, it may tend much to the diſturbance of the Pub<g ref="char:EOLhyphen"/>lick Peace both of the Church and Common-wealth. And wee cannot but bee throughly awakened, when wee conſider, how the ſaid Sectaries doe encourage themſelves, by their miſcon<g ref="char:EOLhyphen"/>ſtruction of that expreſſion in the late Declaration concerning tender Conſciences, to expect a Toleration (contrary to the Nationall Covenant (as wee humbly conceive) which muſt needs bee a very great hinderance to that happy agreement of all the differences in matters of Diſcipline and Government of the Church, endeavoured by the wiſdome of both Houſes of Parliament, and which hath been ſo long prayed, and hoped for by us.</p>
+            <p>And in purſuance of that noble Reſolution of this Honoura<g ref="char:EOLhyphen"/>ble Houſe for the due obſervation of the Covenant, and their expectation of the conformity of the People of <hi>England</hi> there<g ref="char:EOLhyphen"/>unto,
+<pb n="3" facs="tcp:113611:3"/>
+               <!-- PDF PAGE 93 -->expreſſed in the late Declaration, wee doe reſolve by the grace of God, not to receive impreſſion of any forced conſtru<g ref="char:EOLhyphen"/>ction thereof, being already fully ſatisfyed in our Conſciences from the very Letter of the Covenant, of the true meaning and intention thereof, and in this particular of Gods Worſhip, and the Diſcipline and Government of the Church, without any further expoſition, clearly convinced; That Noblemen, Ba<g ref="char:EOLhyphen"/>rons, Knights, Gentlemen, Citizens, Burgeſſes, Miniſters of the Goſpell, and Commons of all ſorts, in the Kingdomes of <hi>En<g ref="char:EOLhyphen"/>gland, Scotland,</hi> and <hi>Ireland,</hi> are ſincerely, really, and conſtant<g ref="char:EOLhyphen"/>ly, through the grace of God, to endeavour in their ſeverall Places and Callings, the Reformation of Religion in the King<g ref="char:EOLhyphen"/>domes of <hi>England,</hi> and <hi>Ireland,</hi> in Doctrine, Worſhip, Diſci<g ref="char:EOLhyphen"/>pline, and Government, according to the Word of God, and the example of the beſt Reformed Churches, and are to endea<g ref="char:EOLhyphen"/>vour to bring the Churches of God in the three Kingdomes, to the neereſt conjunction and uniformity, in Religion, Con<g ref="char:EOLhyphen"/>feſſion of Faith, Form of Church-Government, Directory for Worſhip, and Catechiſing, that wee and our poſterity after us, may, as Brethren, live in Faith and Love, and the Lord may delight to dwell in the middeſt of us; and in like man<g ref="char:EOLhyphen"/>ner without reſpect of perſons, to endeavour the extirpation of Popery, Prelacy, Superſtition, Hereſie, Schiſme, Profaneneſſe, and whatſoever ſhall bee found to bee contrary to ſound Do<g ref="char:EOLhyphen"/>ctrine, and the power of Godlineſſe, leſt wee partake in other mens ſins, and thereby bee in danger to receive of their plagues, and that the Lord may bee one, and his Name one, in the three Kingdomes; And therefore from the bottom of our hearts, ſeriouſly profeſſe before Almighty God, that wee doe not con<g ref="char:EOLhyphen"/>ceive it in the power of any humane authority to diſcharge or abſolve us from adhering thereunto, and endeavouring in our ſeverall Places and Callings to maintain and defend the ſame.</p>
+            <p>Wee alſo cannot but call to minde what Vowes wee have made to God in the ſame Covenant, as well as our former Pro<g ref="char:EOLhyphen"/>teſtations, to preſerve the Rights and Priviledges of the Par<g ref="char:EOLhyphen"/>liament, and the Liberties of the Kingdomes, and to preſerve and defend the King a Majeſties Perſon and Authority, in the preſervation and Defence of the true Religion, and Liberties
+<pb n="4" facs="tcp:113611:4"/>
+               <!-- PDF PAGE 94 -->of the Kingdomes, that the world may bear witneſſe with <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our Conſciences, of our Loyalty, and that wee have no though or intentions, to diminiſh His Majeſties juſt power and <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neſſe, and doe humbly reſt in the aſſiſtances wee ha<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ved in the many former Declamations of both Houſes, <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ning their intentions towards his Majeſty, his Royall Poſterity, and the Peace of this Kingdome.</p>
+            <p>And further wee humbly acknowledge the particular aſſu<g ref="char:EOLhyphen"/>rance this Honourable Houſe hath again given the whole <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, in their late Declaration, to lay hold on the firſt opportunity of procuring a ſafe and well grounded Peace in the three King<g ref="char:EOLhyphen"/>domes, which wee doubt not but this Honourable Houſe will purſue with all ſpeedy diſpatch of Propoſitions to His Majeſty, now whilſt God doth ſo mercifully and miraculouſly go along with your Armies in all the parts of the Kingdome.</p>
+            <p>Wee may not in the next place forget our Brethron of <hi>S<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>land,</hi> how firſt they were invited to engage with this King<g ref="char:EOLhyphen"/>dome in Gods Cauſe, when yet they were at Peace at home, in what Covenant this Nation is mutually linked with them, at what time, in relation both to the weak c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndition of our Forces then, and the ſeaſon of the year, they adven<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> up<g ref="char:EOLhyphen"/>on an Enemy warmly lodged<g ref="char:punc">▪</g> and well <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and; what they have fince ſuff<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed for <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Kingdom, how ſucceſſefulle <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> God hath <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> F<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ces in ſuppreſſing the Common <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Natures, and what preſent hopes wee have of a well <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> continue in this mutuall Amity; And then ca<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the many j<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>louſies which the Enemies of our Peace, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and good Government, doe now <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lve to beget between both Nations, and tremble at the ſad effects thereof, if not <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ly prevented by the wiſdome of the Parliaments of both King<g ref="char:EOLhyphen"/>domes.</p>
+            <p>Wee cannot alſo, but with reverence look upon this Hono<g ref="char:EOLhyphen"/>rable Houſe, as truſted with a great ſhare of the ſupreme pow<g ref="char:EOLhyphen"/>er of this Kingdom, and as it is the repreſentative of the whole Nation, out of which, and by whom, the Members thereof are choſen, doe fix our hearts the more upon the ſame, and doe by the mercy of God, ſo long as this Kingdom doth adhere to our Covenant, promiſe our ſelves now and in all future a<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>,
+<pb n="5" facs="tcp:113611:4"/>
+               <!-- PDF PAGE 94 -->great bleſſings and aſſurances from the endeavours and labours of this Honourable Houſe; and in regard of this dignity of Truſt, we have and doe ſubmit to all Priviledges of Parliament; yet becauſe it may now become a Tenure for life, if this privi<g ref="char:EOLhyphen"/>ledge ſhould bee ſo made uſe of by ſuch Members of Parlia<g ref="char:EOLhyphen"/>ment as owe great ſummes of Money, and protect divers under them as Servants, Attendants, Officers, yea, and their Servants, if all theſe ſhould be exempted from courſe of Law, how many Citizens of <hi>London,</hi> and other Subjects of this Kingdom may be undone? Wee doe therefore with all Duty and Thankful<g ref="char:EOLhyphen"/>neſſe put this Honourable Houſe in minde, that in a Remon<g ref="char:EOLhyphen"/>ſtrance to the Kingdome, 15. <hi>December,</hi> 1642. wee finde this ex<g ref="char:EOLhyphen"/>preſſion; <hi>viz. That for the matter of Protections, the Parliament is ſo ſenſible of it, that therein they intend to give whatſoever eaſe may ſtand with Honour and Juſtice, and are in a way of paſſing a Bill to give ſatisfaction</hi> concerning the ſame.</p>
+            <p>And now that the Kingdome is almoſt reduced, by which meanes the Revenue<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Kingdome wil be unburthened, and the Cuſtomes and Exciſe increaſe, and the publike charge of the Kingdome decreaſe, now that Delinquents doe daily come in and compound, and now that the Enemy hath but few Holds left, we hope that the great and extraordinary Taxes and bur<g ref="char:EOLhyphen"/>thens on this City and their Trade, ſhall be in the future abated; that the Debts owing to the City and Citizens of <hi>London,</hi> ei<g ref="char:EOLhyphen"/>ther by particular Aſſurances of the Parliament, or upon the publike faith of the Kingdome, be taken care for and diſchar<g ref="char:EOLhyphen"/>ged, as well as thoſe aſſigned upon the Exciſe, and may not be diverted from the uſes appointed by former Acts and Ordinan<g ref="char:EOLhyphen"/>ces.</p>
+            <p>And wee cannot but with all due acknowledgement remem<g ref="char:EOLhyphen"/>ber what this Honourable Houſe hath lately declared concer<g ref="char:EOLhyphen"/>ning the extraordinary wayes the Parliament hath been put up<g ref="char:EOLhyphen"/>on for procuring of Money for their many preſſing occaſions; and hereupon we preſume to preſent to the conſideration of this Honourable Houſe, the Committee at <hi>Haberdaſhers-hall,</hi> as being one of the greateſt grievance<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of this City, and which, ſo long as it is co<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>d, doth hinder the concourſe of people thereunto, and tendeth much to the deſtruction of the Trade, and Inhabitants thereof.</p>
+            <pb n="4" facs="tcp:113611:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 95 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:113611:5"/>
+            <!-- PDF PAGE 95 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:113611:6"/>
+            <!-- PDF PAGE 96 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:113611:6"/>
+            <!-- PDF PAGE 96 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <p>
+               <pb n="6" facs="tcp:113611:7"/>
+               <!-- PDF PAGE 97 -->
+And now alſo wee doubt not but God will give the Parli<g ref="char:EOLhyphen"/>ment ſome better meanes and opportunity for the reliefe of our bleeding Brethren in <hi>Ireland,</hi> and the ſuppreſſing of thoſe hor<g ref="char:EOLhyphen"/>rid Rebels, and reducing of that Kingdom, wherein, beſides the publick and common intereſt, wee are particularly concer<g ref="char:EOLhyphen"/>ned.</p>
+            <p>Laſtly, we ſhould have much to ſay for this City, if we could imagine that its fidelity &amp; conſtant ſervices and devotion to the Parliament could either be queſtioned or forgotten, that little we ſhall expreſſe on the part of the City, is, not to repeat how zealous we have been in the cauſe of God, and this Parlia<g ref="char:EOLhyphen"/>ment, how we have ſpilt our blood, and laid out our ſelves and Eſtates in maintenance thereof; how many publike acknow<g ref="char:EOLhyphen"/>ledgements we have by us of the favourable acceptance of them, and promiſes to leave Teſtimonies thereof to all future ages; but onely to beſeech this Honourable Houſe to conſider how much our hearts may juſtly bee dejected, now that God hath followed your endeavours, and our prayers, with ſo many ſuc<g ref="char:EOLhyphen"/>ceſſes, and brought the Warre to a probable period, as to the ſenſe of Man, that this City ſhould yet in us receive ſo great a marke of the diſpleaſure of this Honourable Houſe, as that the Letter ſent us from the Parliament of <hi>Scotland</hi> ſhould ſtill be detained, though Petitioned for, as if this Honourable Houſe were doubtful of our fidelity. That although in the laſt Propoſi<g ref="char:EOLhyphen"/>tions to his Majeſty at <hi>Vxbridge,</hi> the power of the Militia of this City was fully repreſented; that it ſhould now bee re-aſſumed and endeavoured to bee altered, to the endangering of this City, and the Parts adjacent, as if wee now deſerved leſſe Truſt from this Honourable Houſe, then a twelve Moneth agoe. That ſome late Petitions of this City preſented to this Ho<g ref="char:EOLhyphen"/>norable Houſe, ſhould yet lye unanſwered. That <hi>Quarterman</hi> a notorious Sectary, one whom the City not long ſince caſt out for his miſdemeanors, ſhould preſume, in the contempt of the priviledges and Government thereof, to enter the City, and to make Proclamation with Trumpet, without acquainting the Lord Major therwith; the like of which (to our beſt knowledge) in no age, when the City was moſt neglected, was ever ſo much as attempted.</p>
+            <p>
+               <pb n="7" facs="tcp:113611:7"/>
+               <!-- PDF PAGE 97 -->
+And laſtly that after the preſent Lord Major had ſo faithful<g ref="char:EOLhyphen"/>ly behaved himſelfe in his Office, and with the teſtimony of the City, ſo carefully diſcharged the ſame, that yet hee ſhould bee ſuſpected and queſtioned upon generall informations, which (it may well bee doubted) might be deſigned to divide between the Parliament and the City.</p>
+            <p>We could adde much more of the daily invectives againſt us from the Pulpit, and other places where the Bowtefew's of theſe Sectaries are admitted, the ſcurrilous and ſeditious Pam<g ref="char:EOLhyphen"/>phlets daily broached againſt, and in the City: And the great contempt of, and diſcouragement unto the Miniſters of the Goſpel, who adhere to the Presbyteriall Government: But we ſhall conclude with this briefe and humble repreſentation of our Petitions and deſires to this Honourable Houſe in the name of the whole City.</p>
+            <list>
+               <item>I. That ſome ſtrict and ſpeedy courſe may bee taken for the ſuppreſſing of all private and ſeparate Congregations.</item>
+               <item>II. That all Anabaptiſts, Browniſts, Hereticks, Schiſma<g ref="char:EOLhyphen"/>ticks, Blaſphemers, and all ſuch Sectaries as conforme not to the publike Diſcipline eſtabliſhed, or to bee eſtabliſhed by Parlia<g ref="char:EOLhyphen"/>ment, may be fully declared againſt, and ſome effectuall courſe ſetled for proceeding againſt ſuch perſons.</item>
+               <item>III. That as we are all Subjects of one Kingdom, ſo all may be equally required to yeeld obedience unto the Government ſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forth, or to be ſet forth by the Parliament.</item>
+               <item>IV. That no perſon diſaffected to the Presbyteriall Govern<g ref="char:EOLhyphen"/>ment ſet forth, or to be ſet forth by the Parliament, may be em<g ref="char:EOLhyphen"/>ployed in any place of publike Truſt.</item>
+               <item>V. That this Honorable Houſe will pleaſe to haſten Prepo<g ref="char:EOLhyphen"/>ſitions to his Majeſty, for ſetling of a ſafe and well grounded Peace amongſt us, after ſo long and unnaturall a Warre.</item>
+               <item>VI. That this Honourable Houſe, according to the Cove<g ref="char:EOLhyphen"/>nant and Treaties, will pleaſe to ſtudy all meanes to preſerve the Vnion between the t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Nation<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>England</hi> and <hi>Scotland,</hi> and to remove all <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which may endanger our mutuall agreement.</item>
+               <item>
+                  <pb n="8" facs="tcp:113611:8"/>
+                  <!-- PDF PAGE 98 -->
+VII. That this Honourable Houſe will pleaſe to conſider of ſome meanes wherby the priviledge which its Members their Servants and others enjoy by being protected and exempted from being proceeded againſt for their Debts, may be ſo quali<g ref="char:EOLhyphen"/>fied, as that the Subject may be able to recover his owne in ſome due time.</item>
+               <item>VIII. That all publike Revenues and Receipts may be em<g ref="char:EOLhyphen"/>ployed to publike uſes, that ſo the Taxes of the City may bee abated.</item>
+               <item>IX. That the Eſtates and Compoſitions of the Delinquents, may, according to the engagements by Ordinances of Parlia<g ref="char:EOLhyphen"/>ment, be applyed to diſcharge the great ſummes owing to this City and Citizens.</item>
+               <item>X. That the <hi>Plymouth</hi> Duty may be taken off the Trade, eſpe<g ref="char:EOLhyphen"/>cially now the Weſt is reduced.</item>
+               <item>XI. That the Committee at <hi>Haberdaſhers-hall</hi> may be pre<g ref="char:EOLhyphen"/>ſently diſſolved; or at leaſt ſo limited and regulated, as that the City may have no cauſe of complaint.</item>
+               <item>XII. That the reducing of the Kingdome of <hi>Ireland</hi> may be taken into conſideration, before the good party there be too farre waſted and diſcouraged.</item>
+               <item>XIII. That the Originall Letter of the Parliament of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> to this City may be returned.</item>
+               <item>XIV. That the City may enjoy the Militia fully, as it was preſented at the laſt Treaty at <hi>
+                     <g ref="char:V">Ʋ</g>xbridge.</hi>
+               </item>
+               <item>XV. That <hi>Quarterman</hi> may be brought to ſome exemplary puniſhment, for the affront done by him to the Priviledges and Government of this City.</item>
+               <item>XVI. That the Lord Major of this City may bee fully vin<g ref="char:EOLhyphen"/>dicated.</item>
+               <item>XVII. And laſtly, and above all, That this honorable Houſe will pleaſe not to looke upon any expreſſions of this our Re<g ref="char:EOLhyphen"/>monſtrance and Petition, as charging any thing upon this Ho<g ref="char:EOLhyphen"/>nourable Houſe, or as intended to intrench upon any priviledge thereof, but favourably to accept thereof, and ſo to interpret the ſame, as from a ſingle and humble heart it is ſincerely, and without any by-ends, or to comply with any Party whatſoever, intended and breathed forth from the ſad heart of the Petitio<g ref="char:EOLhyphen"/>ners,
+<pb n="9" facs="tcp:113611:8"/>
+                  <!-- PDF PAGE 98 -->who are overwhelmed with many feares on all ſides. And who call God, the Searcher of all hearts, to witneſſe, that ac<g ref="char:EOLhyphen"/>cording to their Covenant and duty, their zeale, devotion and obedience, is as fervent and proſtrate as ever to ſerve the Parli<g ref="char:EOLhyphen"/>ament with their Lives and Eſtates, againſt all the Enemies of our Peace, to conjoyne the City more and more to the Parlia<g ref="char:EOLhyphen"/>ment, and to maintaine the Vnion of both Nations againſt all Oppoſers whatſoever.</item>
+            </list>
+            <closer>All which we humbly ſubmit unto the wiſdome of this Honourable Houſe.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
